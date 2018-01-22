@@ -1,0 +1,10 @@
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\bin\Debug\Election Results.exe.config
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\bin\Debug\Election Results.exe
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\bin\Debug\Election Results.pdb
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\obj\Debug\Election Results.csprojResolveAssemblyReference.cache
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\obj\Debug\Election_Results.Form1.resources
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\obj\Debug\Election_Results.Properties.Resources.resources
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\obj\Debug\Election Results.csproj.GenerateResource.Cache
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\obj\Debug\Election Results.csproj.CoreCompileInputs.cache
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\obj\Debug\Election Results.exe
+C:\Users\AndrewCanDoAll\Source\Repos\Election-Results-\Election Results\Election Results\obj\Debug\Election Results.pdb
